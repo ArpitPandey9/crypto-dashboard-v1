@@ -30,7 +30,8 @@ The dashboard is built using **Python**, **Pandas**, and **Matplotlib**, and is 
 
 ## 📸 Screenshots
 
-![Market Cap Chart](D:\S&P QUANT VS CODE\Crypto return analysis\crypto-dashboard-v1\image-1.png)
+![Market Cap Chart]<img width="1073" height="578" alt="image" src="https://github.com/user-attachments/assets/f5f04822-5308-479b-84cc-99d3ec037b66" />
+
 ---
 
 ## 🔁 How to Run
